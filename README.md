@@ -6,3 +6,6 @@
 
 # Blog post
 [link](https://hackmd.io/@gfronze/r1j6FIb9U)
+
+# Talk at ISGC 2022
+[link](https://indico4.twgrid.org/event/20/contributions/1070/)
