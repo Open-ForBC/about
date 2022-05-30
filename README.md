@@ -9,3 +9,6 @@
 
 # Talk at ISGC 2022
 [link](https://indico4.twgrid.org/event/20/contributions/1070/)
+
+# Talk at INFN CCR Workshop 2022
+[link](https://agenda.infn.it/event/30202/contributions/168561/attachments/91273/123843/OpenForBC%20-%20CCR22.pdf)
