@@ -15,3 +15,6 @@
 - "OpenForBC, GPU partitioning made easy", INFN CCR Workshop [May 22](https://agenda.infn.it/event/30202/contributions/168561/attachments/91273/123843/OpenForBC%20-%20CCR22.pdf)
 - "OpenForBC Benchmark, the GPU benchmarking framework", HEPiX Benchmarking Working Group [May 22](https://indico.cern.ch/event/1164120/contributions/4901818/attachments/2462272/4221765/OpenForBC%20-%20Hepix%20140622.pdf)
 - "OpenForBC, the GPU partitioning framework", ICHEP [July 22](https://agenda.infn.it/event/28874/contributions/171211/)
+
+## Publications
+- "OpenForBC, the GPU partitioning framework", POS 2022, 221, [DOI: 10.22323/1.414.0221](https://pos.sissa.it/414/221/)
